@@ -1,6 +1,6 @@
 # hate_crime_cases
 
-## Group 
+## Team composition 
 There are 5 group members in the team. 
 
 ## Purpose
